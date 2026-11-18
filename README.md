@@ -41,7 +41,6 @@ https://splendid-torte-fd4c59.netlify.app
 
 📂 GitHub Repository
 https://github.com/anuvarshuu17gmailcom-max/CAMPUS-FIND---LOST-AND-FOUND-
-https://github.com/Ankita759/campus-find
 
 Project Type: Academic Group Project
 Domain: Web Development
